@@ -1,6 +1,4 @@
-https://alexasih.github.io/home.html
-
-# alexasih.github.io
+# https://alexasih.github.io/home.html
 This is my personal website.
 
 Created from the Introduction to Web Development workshop I co-lead with Sho Nihei @ https://github.com/shonihei.
