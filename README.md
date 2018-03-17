@@ -1,5 +1,7 @@
+https://alexasih.github.io/home.html
+
 # alexasih.github.io
-This is the code for my personal website.
+This is my personal website.
 
 Created from the Introduction to Web Development workshop I co-lead with Sho Nihei @ https://github.com/shonihei.
 
