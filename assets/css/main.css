@@ -63,8 +63,11 @@ a {
 
 /* Hero */
 
+#home-hero {
+  margin-top: 50px;
+}
+
 #hero {
-    margin-top: 50px;
     height: 100%;
     background: linear-gradient(to right, #BCABAE, #FBFBFB);
 
@@ -103,7 +106,7 @@ a {
     font-weight: 300;
 }
 
-#hero .resume-btn {
+#hero .action-btn {
     color: #2C1A1D;
     border: 2px solid #2C1A1D;
     padding: 10px 15px;
@@ -112,7 +115,7 @@ a {
     transition: all 0.2s;
 }
 
-#hero .resume-btn:hover {
+#hero .action-btn:hover {
     transform: translateY(-2px);
 }
 
