@@ -156,6 +156,31 @@ a {
     height: 100px;
 }
 
+/*-----photoshop-------*/
+
+#photoshop #hero img {
+    border-radius: none !important;
+    box-shadow: none !important;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+#owc {
+    height: 300px !important;
+    width: 300px !important;
+}
+
+#gcp {
+    height: 185px !important;
+    width: 500px !important;
+}
+
+#join {
+    height: 281px !important;
+    width: 500px !important;
+}
+
 /*-----contact-------*/
 
 .contact {
